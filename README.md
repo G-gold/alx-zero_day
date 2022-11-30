@@ -1,1 +1,1 @@
-My first readme
+Inputing text trial in this directory
